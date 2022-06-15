@@ -1,0 +1,79 @@
+from telnetlib import PRAGMA_HEARTBEAT
+
+
+ARRAY           : Array adalah variabel yang mempunyai indeks sehingga dapat menyimpan sejumlah data bertipe sama
+STRING          : String dalam pemrograman komputer adalah sebuah deret simbol. Tipe data string adalah tipe data yang digunakan untuk menyimpan barisan karakter.
+NUMBER          : Tipe Data Numbers (Numerik) Tipe data integer adalah tipe data numerik yang menampung bilangan bulat. Contohnya bilangan 1,2,3 dan seterusnya.
+BOOLEAN         : Tipe data boolean merupakan tipe yang memiliki dua nilai yaitu benar (true) atau salah (false). Nilai yang digunakan pada tipe ini sangat penting dalam mengambil keputusan suatu kejadian tertentu.
+
+ARGUMEN         : adalah sebutan untuk nilai inputan fungsi pada saat fungsi itu dipanggil.
+PARAMETER       : adalah sebutan untuk nilai inputan fungsi pada saat fungsi itu di definisikan, tergantung kebutuhan sebuah fungsi bisa menerima 1,2 atau lebih dari 5 parameter atau argumen, namun bisa juga tidak memerlukan sama sekali
+                  Sebenarnya parameter dan argumen sangat mirip dan sering di pertukarkan. Perbedaan dari keduanya hanya di posisi pembuatan saja. Parameter merujuk kepada inputan fungsi pada saat pendefinisian, sedangkan argumen merujuk ke nilai input fungsi pada saat pemanggilan.
+
+VARIABLE        : variabel adalah lokasi penyimpanan dan terkait nama simbolis yang berisi beberapa kuantitas yang diketahui atau tidak diketahui atau informasi, nilai.
+SQUARE BRACKETS : adalah tanda kurung kotak dalam programming
+
+APPEND          : Append dan insert pada dasarnya memiliki fungsi yang sama yaitu untuk menambahkan nilai pada array
+
+
+OPERATOR ARITMATIKA : Opeartor aritmatika termasuk dalam operator yang paling sering digunakan dalam pemrograman
+Operator	Simbol
+Penjumlahan	+
+Pengurangan	-
+Perkalian	*
+Pembagian	/
+Sisa Bagi	%
+Pemangkatan	**
+
+
+OPERATOR PENUGASAN : Seperti namanya, operator ini digunakan untuk memberikan tugas pada variabel.
+Operator	Simbol
+Pengisian	=
+Penjumlahan	+=
+Pengurangan	-=
+Perkalian	*=
+Pembagian	/=
+Sisa Bagi	%=
+Pemangkatan	**=
+
+
+OPERATOR PEMBANDING : Operator ini digunakan untuk membandingkan dua buah nilai. Operator ini juga dikenal dengan operator relasi dan sering digunakan untuk membuat sebuah logika atau kondisi.
+Operator	                Simbol
+Lebih Besar	                >
+Lebih Kecil	                <
+Sama Dengan	                ==
+Tidak Sama dengan	        !=
+Lebih Besar Sama dengan	    >=
+Lebih Kecil Sama dengan	    <=
+
+
+OPERATOR LOGIKA : Operator logika digunakan untuk membuat operasi logika, seperti logika AND, OR, dan NOT.
+Nama	                Simbol di Python
+Logika AND	            and
+Logika OR	            or
+Negasi/kebalikan	    not
+
+
+OPERATOR BITWISE : Operator Bitwise adalah operator untuk melakukan operasi berdasarkan bit/biner.
+Nama	                Simbol
+AND	                    &
+OR	                    |
+XOR	                    ^
+Negasi/kebalikan	    ~
+Left Shift	            «
+Right Shift	            »
+
+
+OPERATOR TERNARY : Operator ternary juga dikenal dengan operator kondisi, karena digunakan untuk membuat sebuah ekspresi kondisi seperti percabgan IF/ELSE.
+
+
+OpenEdge RDBMS 
+versi : 11.6
+
+
+
+INSTALL PYTHON DOCX
+pip install python-docx
+
+
+
